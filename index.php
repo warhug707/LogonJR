@@ -10,7 +10,8 @@
    </header>
      <footer>
        <h3>Thank you</h3>
-       <p>You have visited my site and I am greatfull</p>
+       <p>You have visited my site and I am greatfull</p><br>
+       <p>Made with love and Care</p>
      </footer>
  </main>
 </body>
