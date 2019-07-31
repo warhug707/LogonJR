@@ -1,5 +1,6 @@
-<html>
-<head><title></title></head>
+<!DOCTYPE html>
+<html lang="en">
+<head><title>OLA!!</title></head>
 <body>
  <main>
    <h1>Hello Guys What is up!!</h1>
