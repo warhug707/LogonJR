@@ -2,6 +2,6 @@
 <html lang="en">
 <head><title>BRUH!!</title></head>
 <body>
- <a href="index.html">BRUH</a>
+ <a href="https://www.youtube.com">BRUH</a>
 </body>
 </html>
