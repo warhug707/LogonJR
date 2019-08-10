@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!DOCTYPE composer.json>
+<!DOCTYPE index.html>
 <html lang="en">
 <head><title>BRUH!!</title></head>
 <body>
