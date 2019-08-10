@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <html lang="en">
 <head><title>OLA!!</title></head>
 <body>
