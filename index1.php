@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE composer.json>
 <html lang="en">
 <head><title>BRUH!!</title></head>
 <body>
