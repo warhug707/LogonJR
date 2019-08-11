@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><title></title></head>
+<head><title>HOME PAGE</title></head>
 <body>
  <center><h1>LogonJR Photo Gallery</h1>
   <h3>List of Photos</h3>
