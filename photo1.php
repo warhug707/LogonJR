@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head><title></title>
 </head>
 <body>
- <center><h2>LogonJR Photo Gallery</h2>
+ <center><h1>LogonJR Photo Gallery</h1>
    <img src="rygg92n25ye31.jpg"></center>
  <a href="index.php">HOME</a>
  <a href="photo2.php" style="float: right;">NEXT PHOTO</a>
