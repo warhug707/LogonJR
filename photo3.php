@@ -4,8 +4,8 @@
 </head>
 <body>
  <center><h1>LogonJR Photo Gallery</h1>
-   <img src="anime_render_118_by_michelleurs-d96znd8.png"></center>
- <a href="index.php">HOME</a>
- <a href="photo2.php" style="float: right;">NEXT PHOTO</a>
+   <img src="poster.jpg"></center>
+ <a href="index.php"><b>HOME</b></a>
+ <a href="photo2.php" style="float: right;"><b>NEXT PHOTO</b></a>
 </body>
 </html>
