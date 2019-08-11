@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><title></title>
+<head><title>P1</title>
 </head>
 <body>
  <center><h1>LogonJR Photo Gallery</h1>
