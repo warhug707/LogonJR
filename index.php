@@ -4,8 +4,8 @@
 <body>
  <center><h1>LogonJR Photo Gallery</h1>
   <h3>List of Photos</h3>
-     <a href="">Photo #1</a>
-     <a href="">Photo #2</a>
-     <a href="">Photo #3</a>
+     <a href="">Photo #1</a><br>
+     <a href="">Photo #2</a><br>
+     <a href="">Photo #3</a><br>
 </body>
 </html>
