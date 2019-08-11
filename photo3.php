@@ -5,7 +5,6 @@
 <body>
  <center><h1>LogonJR Photo Gallery</h1>
    <img src="poster.jpg"></center>
- <a href="index.php"><b>HOME</b></a>
- <a href="photo2.php" style="float: right;"><b>NEXT PHOTO</b></a>
+ <a href="index.php"><b>BACK TO HOME</b></a>
 </body>
 </html>
