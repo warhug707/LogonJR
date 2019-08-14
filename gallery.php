@@ -8,7 +8,8 @@
      <a href="photo2.php">Photo #2</a><br>
      <a href="photo3.php">Photo #3</a><br>
  <form action="index.php>
-  <input type="submit">Log Out</input>
+  <h6>This is not you?</h6>
+  <button type="submit">Log Out</button>
  </form>
 </body>
 </html>
