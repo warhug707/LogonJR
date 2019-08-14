@@ -16,8 +16,8 @@
 <button type="submit">Login</button><br/><br/>
 <br/>   
    
-<a href="">Reset Password</a><br/><br/>
-<a href="">Sign up</a>
+<a href="reset.php">Reset Password</a><br/><br/>
+<a href="signup.php">Sign up</a>
 </form>
 </body>
 </html>
