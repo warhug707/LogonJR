@@ -5,7 +5,7 @@
 <body>
 <main align="center">
  <h1>Login</h1>
-<form action="">
+<form action="gallery.php">
    
 <label for="user"><b>Username:</b></label>
 <input type="text" placeholder="Enter Username" name="user" required><br/>
