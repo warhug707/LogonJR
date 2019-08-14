@@ -5,7 +5,7 @@
 <body>
 <main align="center">
  <h1>Login</h1>
-<form >
+<form action="">
    
 <label for="user"><b>Username:</b></label>
 <input type="text" placeholder="Enter Username" name="user" required><br/>
