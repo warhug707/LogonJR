@@ -9,13 +9,13 @@
 </header>
  <form>
   <p>Please fill in this form to create an account.</p>
-  <label for="email"><b>Email Address</b></label><br/>
+  <label for="email"><b>Email Address</b></label>
   <input type="text" placeholder="Enter Email" name="email" required>
-  <label for="cemail"><b>Confirm Email Address</b></label><br/>
+  <label for="cemail"><b>Confirm Email Address</b></label>
   <input type="text" placeholder="Re-Enter Email" name="cemail" required>
-  <label for="pass"><b>Password</b></label><br/>
+  <label for="pass"><b>Password</b></label>
   <input type="password" placeholder="Enter Password" name="pass" required>
-  <label for="cpass"><b>Confirm Password</b></label><br/>
+  <label for="cpass"><b>Confirm Password</b></label>
   <input type="password" placeholder="Re-Enter Password" name="cpass" required>
   <button type="submit">Submit</button>
  </form>
