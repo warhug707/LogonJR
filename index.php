@@ -6,13 +6,13 @@
 <main>
  <form>
    <label for="user"><b>Username:</b></label>
-   <input type="text" placeholder="Enter Username name="user" required>
+   <input type="text" placeholder="Enter Username name="user" required><br/>
    
    <label for="pass"><b>Passwor:</b></label>
-   <input type="password" placeholder="Enter Password" name="pass" required>
-   <button type="submit">Login</button>
+   <input type="password" placeholder="Enter Password" name="pass" required><br/>
+   <button type="submit">Login</button><br/>
    
-   <a href="" align="cener">Reset Password</a>
+   <a href="" align="center">Reset Password</a>
    <a href="" align="center">Sign up</a>
 </body>
 </html>
