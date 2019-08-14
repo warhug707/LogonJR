@@ -7,6 +7,6 @@
      <a href="photo1.php">Photo #1</a><br/>
      <a href="photo2.php">Photo #2</a><br/>
      <a href="photo3.php">Photo #3</a><br/>
- <a href="index.php" style="float ; left;>Logout</a>
+ <a href="index.php" style="float: left;>Logout</a>
 </body>
 </html>
