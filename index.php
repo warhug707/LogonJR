@@ -1,1 +1,1 @@
-<?php include_once("guess.html"); ?>
+<?php include_once("..guess.html"); ?>
